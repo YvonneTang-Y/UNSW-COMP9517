@@ -1,2 +1,9 @@
-# UNSW-COMP9517
-Computer Vision
+# UNSW-COMP9517 Computer Vision
+
+## Course Description
+Computer vision is the interdisciplinary scientific field that develops theories and methods allowing computers to extract high-level information from digital images or videos. From an engineering perspective it seeks to automate perceptual tasks normally performed by the human visual system. Generally, vision is difficult because it is an inverse problem, where only insufficient information is available about the objects of interest in the image data. Physics-based mathematical and statistical models as well as machine-learning methods are used to assist in the task. Current real-world applications are wide-ranging, and include optical character recognition, machine inspection, retail object recognition, 3D model building, remote sensing, medical imaging, autonomous driving, motion capture, surveillance, face recognition, biometrics, and many others. This course provides an introduction to fundamental concepts and an opportunity to develop a real-world application of computer vision.
+
+## Project
+### Description
+Two important and challenging computer vision tasks are object detection and classification in real-world images or videos. Example applications include surveillance, traffic monitoring, robotics, medical diagnostics, and biology.
+In many applications, the large volume and complexity of the data make it impossible for humans to perform accurate, complete, efficient, and reproducible recognition and analysis of the relevant image information, and thus full automation is needed. The goal of this group project is to develop and evaluate methods for the detection and Project work is in Weeks 6-10 with a demo and report due in Week 10. Refer to the separate marking criteria for detailed information on marking. Submission instructions and a demo schedule will be released later. classification of animals in wildlife images. Specifically, in this project, we will focus on two types on animals: penguins and turtles. The challenge is to develop methods that can analyse the images accurately and efficiently.
